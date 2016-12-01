@@ -1,0 +1,22 @@
+{
+  "name": "genetic-music",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Alessandro <alex_ok@hotmail.it>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/alexsyo/genetic-music",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "foundation-apps": "~1.2.0",
+    "BandJS": "band.js#~1.1.2"
+  }
+}
